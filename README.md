@@ -24,26 +24,22 @@ Therefore, planify is better suited for complex skills and long tasks. If you ne
 
 ### Recommended (npx)
 
-```bash
-npx skills add https://github.com/jayli/plan-kit --skill planify
-```
-
 ### Linux / macOS
 
 ```bash
-bash <(curl -sSL https://raw.githubusercontent.com/jayli/plan-kit/main/install.sh)
+bash <(curl -sSL https://raw.githubusercontent.com/jayli/auto-install-script-planify/main/install.sh)
 ```
 
 ### Windows PowerShell
 
 ```powershell
-iwr https://raw.githubusercontent.com/jayli/plan-kit/main/install.ps1 -useb | iex
+iwr https://raw.githubusercontent.com/jayli/auto-install-script-planify/main/install.ps1 -useb | iex
 ```
 
 ### Windows (Git Bash / WSL)
 
 ```bash
-bash <(curl -sSL https://raw.githubusercontent.com/jayli/plan-kit/main/install.sh)
+bash <(curl -sSL https://raw.githubusercontent.com/jayli/auto-install-script-planify/main/install.sh)
 ```
 
 ## 📖 Usage
@@ -110,5 +106,5 @@ MIT License
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/jayli/plan-kit)
+- [GitHub Repository](https://github.com/jayli/auto-install-script-planify)
 - [Report Issues](https://github.com/jayli/plan-kit/issues)
